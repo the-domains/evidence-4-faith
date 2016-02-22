@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Evidence 4 Faith]]></title>
         <description><![CDATA[Evidence 4 Faith]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/evidence-4-faith/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 01:37:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 01:37:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/evidence-4-faith/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[EVIDENCE 4 FAITH]]></title>
+            <description><![CDATA[<article><h1>EVIDENCE 4 FAITH</h1><h2>Helping Christians Become Thinkers, and Thinkers become Christians</h2><p>Make use of the Mind God Gave You</p></article>]]></description>
+            <link>https://thegrid.ai/evidence-4-faith/evidence-4-faith/index.html</link>
+            <guid isPermaLink="false">bbbf797f-84c8-4b53-ab48-ed29084732c3</guid>
+            <pubDate>Mon, 22 Feb 2016 01:36:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f01d7d39-f651-4d92-90d5-b17a76b88d07.jpg">]]></description>
-            <link>undefinedcb5611fc-a68c-4bcd-b0a9-42a88016b345/index.html</link>
+            <link>https://thegrid.ai/evidence-4-faith/cb5611fc-a68c-4bcd-b0a9-42a88016b345/index.html</link>
             <guid isPermaLink="false">cb5611fc-a68c-4bcd-b0a9-42a88016b345</guid>
             <pubDate>Mon, 22 Feb 2016 01:36:48 GMT</pubDate>
         </item>
